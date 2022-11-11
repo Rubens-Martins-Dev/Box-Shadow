@@ -1,0 +1,16 @@
+.card {
+    background-image: linear-gradient(115deg, #e0f238 0, #c4ec3e 12.5%, #a7e445 25%, #89d94b 37.5%, #6acc50 50%, #49be55 62.5%, #1eb259 75%, #00a85e 87.5%, #009f64 100%);
+    border-radius: 20px;
+    display: inline-block;
+    height: 200px;
+    margin: 200px;
+    position: relative;
+    width: 200px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.card-4 {
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22) ;
+}
+
+
